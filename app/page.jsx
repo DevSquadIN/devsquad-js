@@ -22,7 +22,6 @@ export default function Home() {
           <div className="justify-center space-y-3 md:flex md:space-y-0 ">
             <input
               type="email"
-              id="email"
               className="block w-72 rounded-lg border border-gray-300 bg-gray-50 p-2.5 text-sm text-gray-900 outline-none focus:border-orange-700 focus:ring-orange-700"
               placeholder="Enter your email"
               required
